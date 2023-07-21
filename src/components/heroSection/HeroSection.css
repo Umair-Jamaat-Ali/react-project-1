@@ -1,0 +1,8 @@
+.hero-section{
+    width: 1280px;
+    height: 704px;
+    display: flex;
+    justify-content: space-evenly;
+    padding-left: 150px;
+    padding-right: 150px;
+}

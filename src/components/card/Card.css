@@ -1,0 +1,9 @@
+.Card{
+    width: 410px;
+    height: 510px;
+    border-radius: 2rem;
+}
+.img-div{
+    width: auto;
+    height: auto;
+}
