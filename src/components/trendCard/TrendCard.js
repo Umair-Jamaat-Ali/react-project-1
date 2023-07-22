@@ -1,6 +1,7 @@
 import mainImg from '../../assets/imgs/main-img-1.jpg.png';
 import subImg1 from '../../assets/imgs/sub-img-1.jpg.png';
 import subImg2 from '../../assets/imgs/sub-img-2.jpg.png';
+import Profile from '../profile/Profile';
 function TrendCard() {
     return (
         <div>
@@ -20,6 +21,7 @@ function TrendCard() {
                                 justifyContent: "center", alignItems: "center"
                             }}> <h3>1025+</h3></div>
                         </div>
+                        <Profile/>
                     </div>
                 </div>
             </div>

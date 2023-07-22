@@ -6,7 +6,7 @@ function HeroSection() {
     return (
         <div className="container hero-section">
             <div className="row hero-section-1">
-                <div className="col" style={{ padding: "50px", paddingBottom: "0px" }}>
+                <div className="col col-md-2 col-lg-4" style={{ padding: "50px", paddingBottom: "0px" }}>
                     <h1 style={{ fontSize: "3rem", fontWeight: "bold" }}>Discover Digital Arts & Collects NFTs</h1>
                     <p>NTf Marketplace UI Creates with Anima for Figma. Collect, Buy And Sell Arts from More Than 20k NFTs Artists.</p>
                     <Button />
